@@ -1986,15 +1986,6 @@ class Theme extends MapasCulturais\Theme {
     protected function _getFilters(){
         $filters = [
             'space' => [
-                'area' => [
-                    'label'=> $this->dict('taxonomies:area: name', false),
-                    'placeholder' => $this->dict('taxonomies:area: select', false),
-                    'type' => 'term',
-                    'filter' => [
-                        'param' => 'area',
-                        'value' => 'IN({val})'
-                    ]
-                ],
                 'tipos' => [
                     'label' => i::__('Tipos'),
                     'placeholder' => i::__('Selecione os tipos'),
@@ -2003,16 +1994,6 @@ class Theme extends MapasCulturais\Theme {
                         'param' => 'type',
                         'value' => 'IN({val})'
                     ]
-                ],
-                'acessibilidade' => [
-                    'label' => i::__('Acessibilidade'),
-                    'placeholder' => i::__('Exibir somente resultados com Acessibilidade'),
-                    'fieldType' => 'checkbox',
-                    'isArray' => false,
-                    'filter' => [
-                        'param' => 'acessibilidade',
-                        'value' => 'EQ(Sim)'
-                    ],
                 ],
                 'verificados' => [
                     'label' => $this->dict('search: verified results', false),
