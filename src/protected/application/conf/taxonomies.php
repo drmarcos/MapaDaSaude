@@ -191,25 +191,6 @@ return array(
         ),
 
         'restricted_terms' => array(
-            \MapasCulturais\i::__('Artes Circenses'),
-            \MapasCulturais\i::__('Artes Integradas'),
-            \MapasCulturais\i::__('Artes Visuais'),
-            \MapasCulturais\i::__('Audiovisual'),
-            \MapasCulturais\i::__('Cinema'),
-            \MapasCulturais\i::__('Cultura Digital'),
-            \MapasCulturais\i::__('Cultura Indígena'),
-            \MapasCulturais\i::__('Cultura Tradicional'),
-            \MapasCulturais\i::__('Curso ou Oficina'),
-            \MapasCulturais\i::__('Dança'),
-            \MapasCulturais\i::__('Exposição'),
-            \MapasCulturais\i::__('Hip Hop'),
-            \MapasCulturais\i::__('Livro e Literatura'),
-            \MapasCulturais\i::__('Música Popular'),
-            \MapasCulturais\i::__('Música Erudita'),
-            \MapasCulturais\i::__('Palestra, Debate ou Encontro'),
-            \MapasCulturais\i::__('Rádio'),
-            \MapasCulturais\i::__('Teatro'),
-            \MapasCulturais\i::__('Outros')
         )
     )
 );
