@@ -179,6 +179,7 @@ return array(
             \MapasCulturais\i::__("TERAPEUTA OCUPACIONAL"),
             \MapasCulturais\i::__("TRABALHADOR DE SERVICOS DE LIMPEZA E CONSERVACAO DE AREAS PUBLICAS"),
             \MapasCulturais\i::__("VISITADOR SANITARIO"),
+            \MapasCulturais\i::__("OUTROS"),
         )
     ),
 
