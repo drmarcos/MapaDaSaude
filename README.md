@@ -9,6 +9,8 @@ OBJETIVOS
 
  - As informações que constituem o Mapa da Saúde possibilitam aos gestores do SUS o entendimento de questões estratégicas para o planejamento das ações e dos serviços de saúde, facilitando a tomada de decisão quanto à implementação e à adequação das ações e dos serviços de saúde.
 
+CONTEXTO
+
 O gasto com saúde no Brasil representa 9,1% do PIB, e mais da metade desse percentual (54%) concentra-se no setor privado.
 A maior parte do gasto é direcionada a 25% da população que possui saúde suplementar ou recursos para arcar com os custos.
 
