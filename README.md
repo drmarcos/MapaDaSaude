@@ -35,33 +35,14 @@ A plataforma poderá estar alinhada ao Sistema Nacional de Informação e Indica
 
 A plataforma poderá estar em uso em diversos municipios, estados, no governo federal em diversos projetos do ministério da saúde. Instalações recentes: 
 
-* http://spcultura.prefeitura.sp.gov.br
-* http://estadodacultura.sp.gov.br
-* http://jpcultura.joaopessoa.pb.gov.br
-* http://cultura.sobral.ce.gov.br
-* http://mapa.cultura.ce.gov.br
-* http://blumenaumaiscultura.com.br
-* http://mapa.cultura.rs.gov.br
-* http://culturaz.santoandre.sp.gov.br
-* http://mapa.cultura.to.gov.br
-* https://mapas.cultura.mt.gov.br
-* http://mapaculturalbh.pbh.gov.br
-* http://lugaresdacultura.org.br
-* http://mapas.cultura.gov.br
-* http://culturaviva.gov.br
-* http://bibliotecas.cultura.gov.br
-* http://museus.cultura.gov.br
-* https://mapas.cultura.mt.gov.br
+* [Título do link](link completo)
 
 ## Sobre a aplicação
-Mapas Culturais é uma aplicação web server-side baseada em linguagem PHP e banco de dados Postgres, entre outras tecnologias e componentes, que propicia um ambiente virtual para mapeamento, divulgação e gestão de ativos culturais. 
+Mapas da Saúde é uma aplicação web server-side baseada em linguagem PHP e banco de dados Postgres, entre outras tecnologias e componentes, que propicia um ambiente virtual para mapeamento, divulgação e gestão de ativos culturais. 
 
 ## Projetos correlatos
 
-* [Mapas Culturais APP](https://github.com/hacklabr/mapasculturais-app)
-* [Cultural Magazine Theme](https://github.com/hacklabr/cultural)
-* [Mapas SDK](https://github.com/centroculturalsp/MapasSDK)
-* [Multiple Local Auth](https://github.com/LibreCoopUruguay/MultipleLocalAuth)
+* [Título do link](link completo)
 
 
 ### Documentação 
