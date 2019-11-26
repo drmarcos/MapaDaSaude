@@ -44,6 +44,7 @@ A plataforma poderá estar em uso em diversos municipios, estados, no governo fe
 
 * [Mapa da Saúde - CONASS](https://www.conass.org.br/guiainformacao/mapa-da-saude/)
 * [Mapa da Saúde - Ministério da Saúde](http://bvsms.saude.gov.br/bvs/folder/mapa_saude.pdf)
+* [Mapa da Saúde](http://mapadasaude.saude.gov.br/mapadasaude/)
 
 
 ## Sobre a aplicação
