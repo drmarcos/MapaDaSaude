@@ -2,11 +2,27 @@
 
 # Mapas da Saúde
 
-Em meados de 2019 ...., agentes culturais de vários países da América Latina e do Brasil se reuniram para discutir a criação de uma ferramenta de mapeamento de iniciativas culturais e gestão cultural. Desse encontro surgiram as bases para a criação de Mapas Culturais, um software livre que permite o aprimoramento da gestão cultural dos municípios e estados.
+O gasto com saúde no Brasil representa 9,1% do PIB, e mais da metade desse percentual (54%) concentra-se no setor privado.
+A maior parte do gasto é direcionada a 25% da população que possui saúde suplementar ou recursos para arcar com os custos.
+Em 2013 foram registradas perdas de R$ 22 bilhões com ineficiências do sistema.
+Se todos os focos de ineficiência fossem eliminados do sistema, a economia seria de R$ 989 bilhões, superior a da Reforma a Previdência.
+O Ceará é o 8o Estado com maior acesso ao serviço público do país e o 5o do Nordeste (PNS IBGE 2013)
+76% dos leitos existentes no Estado do Ceará são do SUS e 24% exclusivamente privados (CNES)
+O Ceará supera todos os Estados da região nordeste na taxa de cobertura vacinal (75,86%)
+O Ceará é o 3o Estado da Região Nordeste em produção ambulatorial
+De 45,2 milhões de internações no Brasil, cerca de 12,1 milhões foram realizadas no Nordeste e 1,9 milhões no Ceará (2018), representando 15,75% em relação ao NE e 4,2% em relação ao Brasil.
+Diante do exposto entendemos a necessidade de concentar esforços no sentido de aprimorar o sistema Mapa da Saúde para que sirva como um recurso centralizador de dados como:
+Números e localizações de hospitais públicos e privados
+Números e locais de trabalho dos profissionais de saúde inicialmente do Estado do Ceará
+Dsitribuição geográfica de Postos de Saúde e atendimentos emergências
 
-Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos culturais, fornecendo ao poder público uma radiografia da área de cultura e ao cidadão um mapa de espaços e eventos culturais da região. A plataforma está alinhada ao Sistema Nacional de Informação e Indicadores Culturais do Ministério da Cultura (SNIIC) e contribui para a realização de alguns dos objetivos do Plano Nacional de Cultura.
+Dados importantes que poderão auxiliar na tomada de decisões para crição de estratégias com a finalidade de promover mudanças no atual quadro da saúde no estado.
+A nova visão gestora da Secretaria Estadual de Saúde (SESA) entendendo a necessidade de investir em soluções inovadoras para a agilização dos processos.......
 
-A plataforma já está em uso em diversos municipios, estados, no governo federal em diversos projetos do ministério da cultura e até mesmo fora do Brasil no Uruguai. Instalações recentes: 
+Mapas da Saúde é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos da saúde inicialmente apenas para o estado do Cerá, fornecendo ao poder público uma radiografia da área de saúde (profissionais/populaçãp) 
+A plataforma poderá estar alinhada ao Sistema Nacional de Informação e Indicadores de Saúde do Ministério da Saúde (MS) e poderá contribui para a realização de alguns dos objetivos do Plano Nacional de Saúde.
+
+A plataforma poderá estar em uso em diversos municipios, estados, no governo federal em diversos projetos do ministério da saúde. Instalações recentes: 
 
 * http://spcultura.prefeitura.sp.gov.br
 * http://estadodacultura.sp.gov.br
