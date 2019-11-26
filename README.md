@@ -19,13 +19,13 @@ De 45,2 milhões de internações no Brasil, cerca de 12,1 milhões foram realiz
 
 Diante do exposto entendemos a necessidade de concentar esforços no sentido de aprimorar o sistema Mapa da Saúde para que sirva como um recurso centralizador de dados como:
 
-Números e localizações de hospitais públicos e privados
+ - Números e localizações de hospitais públicos e privados
 
-Números e locais de trabalho dos profissionais de saúde inicialmente do Estado do Ceará
+ - Números e locais de trabalho dos profissionais de saúde inicialmente do Estado do Ceará
 
-Dsitribuição geográfica de Postos de Saúde e atendimentos emergências
+ - Distribuição geográfica de Postos de Saúde e atendimentos emergências/ambulatoriais
 
-Dados importantes que poderão auxiliar na tomada de decisões para crição de estratégias com a finalidade de promover mudanças no atual quadro da saúde no estado.
+Dados estes, importantes e que auxiliarão nas tomadas de decisões para criação de estratégias com a finalidade de promover mudanças no atual quadro da saúde no estado.
 
 A nova visão gestora da Secretaria Estadual de Saúde (SESA) entendendo a necessidade de investir em soluções inovadoras para a agilização dos processos.......
 
