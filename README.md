@@ -2,6 +2,13 @@
 
 # Mapas da Saúde
 
+Mapas da Saúde é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos da saúde inicialmente apenas para o estado do Cerá, fornecendo ao poder público uma radiografia da área de saúde (profissionais/populaçãp)
+
+OBJETIVOS 
+ - No processo de planejamento, o Mapa da Saúde auxilia na análise situacional contribuindo na identificação das necessidades de saúde da população, nas dimensões referentes às condições de vida e de acesso aos serviços e às ações de saúde, baseando o estabelecimento de metas de saúde e o processo de construção regional do Contrato Organizativo de Ação Pública (Coap).
+
+ - As informações que constituem o Mapa da Saúde possibilitam aos gestores do SUS o entendimento de questões estratégicas para o planejamento das ações e dos serviços de saúde, facilitando a tomada de decisão quanto à implementação e à adequação das ações e dos serviços de saúde.
+
 O gasto com saúde no Brasil representa 9,1% do PIB, e mais da metade desse percentual (54%) concentra-se no setor privado.
 A maior parte do gasto é direcionada a 25% da população que possui saúde suplementar ou recursos para arcar com os custos.
 
@@ -29,19 +36,12 @@ Dados estes, importantes e que auxiliarão nas tomadas de decisões para criaç�
 
 A nova visão gestora da Secretaria Estadual de Saúde (SESA) entendendo a necessidade de investir em soluções inovadoras para a agilização dos processos.......
 
-OBJETIVO
-No processo de planejamento, o Mapa da Saúde auxilia na análise situacional contribuindo na identicação das necessidades de saúde da
-população, nas dimensões referentes às condições de vida e de acesso aos serviços e às ações de saúde, baseando o estabelecimento de metas de saúde e o processo de construção regional do Contrato Organizativo de Ação Pública (Coap).
+A plataforma poderá:
+- Estar alinhada ao Sistema Nacional de Informação e Indicadores de Saúde do Ministério da Saúde (MS) e poderá contribui para a realização de alguns dos objetivos do Plano Nacional de Saúde.
 
-GESTOR
-As informações que constituem o Mapa da Saúde possibilitam aos gestores do SUS o entendimento de questões estratégicas para o planejamento das ações e dos serviços de saúde, facilitando a tomada de decisão quanto à implementação e à adequação das ações e dos serviços de saúde.
+- Estar em uso em diversos municipios, estados, no governo federal em diversos projetos do ministério da saúde. Instalações recentes: 
 
-Mapas da Saúde é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos da saúde inicialmente apenas para o estado do Cerá, fornecendo ao poder público uma radiografia da área de saúde (profissionais/populaçãp) 
-
-A plataforma poderá estar alinhada ao Sistema Nacional de Informação e Indicadores de Saúde do Ministério da Saúde (MS) e poderá contribui para a realização de alguns dos objetivos do Plano Nacional de Saúde.
-
-A plataforma poderá estar em uso em diversos municipios, estados, no governo federal em diversos projetos do ministério da saúde. Instalações recentes: 
-
+Referênciais
 * [Mapa da Saúde - CONASS](https://www.conass.org.br/guiainformacao/mapa-da-saude/)
 * [Mapa da Saúde - Ministério da Saúde](http://bvsms.saude.gov.br/bvs/folder/mapa_saude.pdf)
 * [Mapa da Saúde](http://mapadasaude.saude.gov.br/mapadasaude/)
