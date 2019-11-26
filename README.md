@@ -37,10 +37,11 @@ Diante do exposto entendemos a necessidade de concentar esforços no sentido de 
 
 Dados estes, importantes e que auxiliarão nas tomadas de decisões para criação de estratégias com a finalidade de promover mudanças no atual quadro da saúde no estado.
 
-A nova visão gestora da Secretaria Estadual de Saúde (SESA) entendendo a necessidade de investir em soluções inovadoras para a agilização dos processos.......
+A nova visão gestora da Secretaria Estadual de Saúde (SESA) entendendo a necessidade de investir em soluções inovadoras para a agilização dos processos e que aplique de forma efetiva uma política de saúde transparente, clara e que esteja voltada para as necessidades dos usuários do sistema de saúde do Estado. Onde o modelo de política pública para a implementação de um sistema de saúde ideal precisa considerar diferentes vertentes da vida em sociedade e suas complexidade.
+
 
 A plataforma poderá:
-- Estar alinhada ao Sistema Nacional de Informação e Indicadores de Saúde do Ministério da Saúde (MS) e poderá contribui para a realização de alguns dos objetivos do Plano Nacional de Saúde.
+- Estar alinhada ao Sistema Nacional de Informação e Indicadores de Saúde da Secretaria estadual de Saúde bem como do Ministério da Saúde (MS) e poderá contribui para a realização de alguns dos objetivos do Plano Nacional de Saúde.
 
 - Estar em uso em diversos municipios, estados, no governo federal em diversos projetos do ministério da saúde. Instalações recentes: 
 
